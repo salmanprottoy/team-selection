@@ -20,10 +20,10 @@ const PlayerCard = () => {
 
   return (
     <div className="PlayerCard">
-      <div className="row row-cols-md-4 g-3 justify-content-center">
+      <div className="row row-cols-md-4 g-3 justify-content-center mt-2">
         <Selection selectedPlayers={selectedPlayers}></Selection>
       </div>
-      <div className="row row-cols-1 row-cols-md-4 g-2 justify-content-center">
+      <div className="row row-cols-md-4 g-3 justify-content-center">
         {players.map((player) => (
           <PlayerInfo handleAddPlayer={handleAddPlayer} player={player} key={player.id}></PlayerInfo>
         ))}
