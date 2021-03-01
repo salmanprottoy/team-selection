@@ -15,9 +15,8 @@ const PlayerInfo = (props) => {
               {first_name} {last_name}
             </h5>
             <p className="card-text">Salary: ${salary}</p>
-            <a href="#" className="btn btn-success">
-            <FontAwesomeIcon icon={faCheckCircle} /> Add Player
-            </a>
+            <button className="btn btn-success" onClick={() =>props.handleAddPlayer(props.player)} ><FontAwesomeIcon icon={faCheckCircle} /> Add Player
+            </button>
           </div>
         </div>
       </div>
