@@ -6,7 +6,7 @@
     "email": "mdaifuddin@topsy.com",
     "gender": "male",
     "salary": 25000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Mijammad-saifud.png"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "email": "abujayed@wired.com",
     "gender": "male",
     "salary": 37000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Abu-Jayed.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302961.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "email": "abuider@usatoday.com",
     "gender": "male",
     "salary": 55000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Abu-Haider-Rony.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303229.jpg"
   },
   {
     "id": 4,
@@ -33,25 +33,25 @@
     "email": "hasanmahmud@ed.gov",
     "gender": "Male",
     "salary": 50000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Hasan-Mahmud.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg"
   },
   {
     "id": 5,
-    "first_name": "Litton",
+    "first_name": "Liton",
     "last_name": "Das",
-    "email": "littiondas@tuttocitta.it",
+    "email": "litondas@tuttocitta.it",
     "gender": "male",
     "salary": 32000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Litton-Das.png"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg"
   },
   {
     "id": 6,
     "first_name": "Mahmudullah",
-    "last_name": " ",
+    "last_name": "",
     "email": "mahmudullah@bluehost.com",
     "gender": "male",
     "salary": 70000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Md--mahmud-ullah.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "email": "mortaza@tamu.edu",
     "gender": "male",
     "salary": 91000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Masrafe-bin-mortaza.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "email": "miraz@ft.com",
     "gender": "male",
     "salary": 59000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Mehedi-Hasan-Miraz.png"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "email": "mominul@spotify.com",
     "gender": "male",
     "salary": 58000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Mominul-Haque.png"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303146.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "email": "mushfiqur@smh.com.au",
     "gender": "male",
     "salary": 85000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Md-mushfiqur-rahim.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "email": "mustafizur@constantcontact.com",
     "gender": "male",
     "salary": 61000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Mustafizur-rahman.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "email": "sabbir@zdnet.com",
     "gender": "male",
     "salary": 61500,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Shabbir-rahman-roman.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303247.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "email": "shakib@mlb.com",
     "gender": "male",
     "salary": 94000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Shakib-al-hasan.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "email": "soumyasarkar@icq.com",
     "gender": "male",
     "salary": 70000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Soumya-sarker.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg"
   },
   {
     "id": 15,
@@ -132,6 +132,6 @@
     "email": "Tamim@ucoz.com",
     "gender": "male",
     "salary": 89000,
-    "img": "https://www.cricwaves.com/cricket/pics/c125x143/Tamim-iqbal.jpg"
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg"
   }
 ]
