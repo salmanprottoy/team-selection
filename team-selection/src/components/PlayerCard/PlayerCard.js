@@ -6,17 +6,16 @@ import { useEffect, useState } from "react";
 import "./PlayerCard.css";
 
 const PlayerCard = () => {
-    const [players, setPlayers] = useState([]);
-    const [selectedPlayers, setSelectedPlayers] = useState([]);
-    useEffect(() => {
-      setPlayers(playerData);
-    }, []);
+  const [players, setPlayers] = useState([]);
+  const [selectedPlayers, setSelectedPlayers] = useState([]);
+  useEffect(() => {
+    setPlayers(playerData);
+  }, []);
 
-    const handleAddPlayer = (player)=>{
-        console.log("player added", player);
-        const newSelectedPlayers = [...selectedPlayers, player]
-        setSelectedPlayers(newSelectedPlayers);
-    }
+  const handleAddPlayer = (player) => {
+    const newSelectedPlayers = [...selectedPlayers, player];
+    setSelectedPlayers(newSelectedPlayers);
+  };
 
   return (
     <div className="PlayerCard">
@@ -25,7 +24,11 @@ const PlayerCard = () => {
       </div>
       <div className="row row-cols-md-4 g-3 justify-content-center">
         {players.map((player) => (
-          <PlayerInfo handleAddPlayer={handleAddPlayer} player={player} key={player.id}></PlayerInfo>
+          <PlayerInfo
+            handleAddPlayer={handleAddPlayer}
+            player={player}
+            key={player.id}
+          ></PlayerInfo>
         ))}
       </div>
     </div>

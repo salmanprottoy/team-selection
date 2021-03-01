@@ -1,7 +1,7 @@
 import React from "react";
 import "./PlayerInfo.css";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheckCircle } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCheckCircle } from "@fortawesome/free-solid-svg-icons";
 
 const PlayerInfo = (props) => {
   const { first_name, last_name, salary, img } = props.player;
@@ -15,7 +15,11 @@ const PlayerInfo = (props) => {
               {first_name} {last_name}
             </h5>
             <p className="card-text">Salary: ${salary}</p>
-            <button className="btn btn-success" onClick={() =>props.handleAddPlayer(props.player)} ><FontAwesomeIcon icon={faCheckCircle} /> Add Player
+            <button
+              className="btn btn-success"
+              onClick={() => props.handleAddPlayer(props.player)}
+            >
+              <FontAwesomeIcon icon={faCheckCircle} /> Add Player
             </button>
           </div>
         </div>
