@@ -16,10 +16,14 @@ const Selection = (props) => {
         </div>
         <div className="card-body">
           <h5 className="card-title">Total Salary Cost: ${totalExpense}</h5>
+          <h5 className="card-title">Selected Players</h5>
           <p className="card-text">
             <p>
-                <h3>Selected Player List</h3>
-                {selectedPlayers.map((selectedPlayers) => (<SelectedPlayersInfo selectedPlayers={selectedPlayers}></SelectedPlayersInfo>))}
+              {selectedPlayers.map((selectedPlayers) => (
+                <SelectedPlayersInfo
+                  selectedPlayers={selectedPlayers}
+                ></SelectedPlayersInfo>
+              ))}
             </p>
           </p>
         </div>
